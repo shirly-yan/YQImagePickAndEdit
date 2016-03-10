@@ -7,8 +7,7 @@
 //
 
 #import "ViewController.h"
-//#import "CaptureViewController.h"
-//#import "PassImageDelegate.h"
+
 #import "YQImagePickAndEditButton.h"
 
 @interface ViewController ()<YQImagePickAndEditButtonDelegate>

@@ -1,2 +1,7 @@
 # YQImagePickAndEdit
 点击照相或者获取相册的图片进行简单的截取编辑
+
+继承自YQImagePickAndEditButton.h
+签协议YQImagePickAndEditButtonDelegate
+
+正常创建就可以

@@ -1,0 +1,2 @@
+# YQImagePickAndEdit
+点击照相或者获取相册的图片进行简单的截取编辑
